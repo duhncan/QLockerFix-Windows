@@ -19,6 +19,7 @@ The aim of this script is to do the following:
 
 # Usage
 NOTE: This is a Windows batch script and will only work when run a CMD terminal. 
+NOTE: This script also assumes you have 7-Zip installed in the default location. You can change it's directory within the script before running if you don't.
 
 I have set this file so that you can:
 * Insert this file in whatever folders that are affected
